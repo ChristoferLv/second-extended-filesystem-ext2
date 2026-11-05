@@ -1,0 +1,35 @@
+h1 	{ font-size : 28pt; }
+h2 	{ font-size : 22pt; }
+h3 	{ font-size : 12pt; }
+body 	{ font-size: 12pt; }
+p.caption { text-align: center; font-size: 10pt; font-style: italic; }
+code 	{ font-size: 10pt; font-style: normal; }
+pre 	{ font-size: 10pt; font-style: normal; }
+b 	{ color: brown; }
+strong 	{ font-color: black; }
+img     { border: 0; }
+
+table.questions 
+{ 
+	font-style: italic; 
+	background-color: #DDDDDD; 
+	width: 100%;
+}
+
+td 
+{ 
+	vertical-align	: center; 
+	border-bottom	: solid 2px white;
+	border-top	: solid 2px white;
+	border-left	: 0;
+	border-right	: 0;
+	padding-left	: 10px;
+}
+
+th 
+{
+	text-align	: left;
+	padding-left	: 10px;
+	font-style	: italic;
+}
+
